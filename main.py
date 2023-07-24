@@ -64,18 +64,15 @@ cd1=Cd(
     None
 )
 
-#input search
-input_search='media'
-
-#collect data per jenis
-book = [book1,book2,book3]
-magazine=[magazine1,magazine2]
-dvd=[dvd1]
-cd=[cd1]
-
 #get data from json
 f=open('files/catalog.json')
 data_json=json.load(f)
+
+#collect data from json(tidak memerlukan object yang banyak,karena membaca dari json)
+book = []
+magazine=[]
+dvd=[]
+cd=[]
 
 #create object from data json
 for item in data_json:
