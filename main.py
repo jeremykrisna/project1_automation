@@ -5,65 +5,6 @@ from modules.cd import Cd
 from modules.catalog import Catalog
 import json
 
-book1 = Book(
-    'Title',
-    'Ini subject',
-    None,
-    '1345-4533',
-    'Singgih',
-    '08526437658678'
-)
-
-book2 = Book(
-    'Title 2',
-    'Ini subject 2',
-    None,
-    '1345-4533',
-    'Singgih',
-    '08526437658678'
-)
-
-book3 = Book(
-    'Title 3',
-    'Ini subject 3',
-    None,
-    '1345-4533',
-    'Singgih',
-    '08526437658678'
-)
-
-magazine1=Magazine(
-    'media cnn 1',
-    'edisi 14 Juli 2023',
-    None,
-    'volume 1',
-    '-'
-)
-
-magazine2=Magazine(
-    'media cnn 2',
-    'edisi 14 Juli 2023',
-    None,
-    'volume 2',
-    '-'
-)
-
-dvd1=Dvd(
-    'Test DVD 1',
-    'Ini test dvd 1',
-    None,
-    None,
-    None,
-    'Comedy'
-)
-
-cd1=Cd(
-    'Cd 1',
-    'Subject cd 1',
-    None,
-    None
-)
-
 #get data from json
 f=open('files/catalog.json')
 data_json=json.load(f)
