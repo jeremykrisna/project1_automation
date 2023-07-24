@@ -1,0 +1,105 @@
+[
+    {
+        "source": "book",
+        "title": "ini book 1 test",
+        "subject": null,
+        "upc": null,
+        "issbn": null,
+        "authors": null,
+        "dds_number": "3434343"
+    },
+    {
+        "source": "book",
+        "title": "Title test",
+        "subject": null,
+        "upc": null,
+        "issbn": null,
+        "authors": null,
+        "dds_number": "08989787876"
+    },
+    {
+        "source": "book",
+        "title": "Title test",
+        "subject": null,
+        "upc": null,
+        "issbn": null,
+        "authors": null,
+        "dds_number": "08989787876"
+    },
+    {
+        "source": "book",
+        "title": "Title test",
+        "subject": null,
+        "upc": null,
+        "issbn": null,
+        "authors": null,
+        "dds_number": "08989787876"
+    },
+    {
+        "source": "book",
+        "title": "Title 1",
+        "subject": "Ini subject 1",
+        "upc": null,
+        "issbn": "1345-4533",
+        "authors": "Singgih",
+        "dds_number": "08526437658678"
+    },
+    {
+        "source": "book",
+        "title": "Title 2",
+        "subject": "Ini subject 2",
+        "upc": null,
+        "issbn": "1365-4533",
+        "authors": "Singgah",
+        "dds_number": "0852643698678"
+    },
+    {
+        "source": "book",
+        "title": "Title 3",
+        "subject": "Ini subject 3",
+        "upc": null,
+        "issbn": "1333-4533",
+        "authors": "Sanggih",
+        "dds_number": "085264598678"
+    },
+    {
+        "source": "magazine",
+        "title": "media cnn test",
+        "subject": null,
+        "upc": null,
+        "volume": "volume 1",
+        "issue": null
+    },
+    {
+        "source": "magazine",
+        "title": "media cnn 1",
+        "subject": "edisi 14 Juli 2023",
+        "upc": null,
+        "volume": "volume 1",
+        "issue": "-"
+    },
+    {
+        "source": "magazine",
+        "title": "media cnn 2",
+        "subject": "edisi 15 Juli 2023",
+        "upc": null,
+        "volume": "volume 2",
+        "issue": "-"
+    },
+    {
+        "source": "cd",
+        "title": "ini cd 1 test",
+        "subject": null,
+        "upc": null,
+        "artist": null
+    },
+    {
+        "source": "dvd",
+        "title": "Test DVD 1 json",
+        "subject": "Ini test dvd 1 json",
+        "upc": null,
+        "actors": null,
+        "directors":null,
+        "genre":"Comedy"
+    }
+]
