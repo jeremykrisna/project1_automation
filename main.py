@@ -52,7 +52,7 @@ for item in data_json:
        )) 
     
 #collect data
-catalog_all=[book,magazine,dvd]
+catalog_all=[book,magazine,dvd,cd]
 
 input_search='test'
 
